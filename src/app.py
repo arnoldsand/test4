@@ -54,11 +54,14 @@ activities = {
             "max_participants": 16,
             "participants": ["william@mergington.edu", "isabella@mergington.edu"]
         },
-        "Science Olympiad": {
-            "description": "Compete in science competitions and conduct experiments",
-            "schedule": "Thursdays, 3:30 PM - 5:00 PM",
-            "max_participants": 20,
-            "participants": ["ethan@mergington.edu", "charlotte@mergington.edu"]
+    "Science Olympiad": {
+        "description": "Compete in science competitions and conduct experiments",
+        "schedule": "Thursdays, 3:30 PM - 5:00 PM",
+        "max_participants": 20,
+        "participants": ["ethan@mergington.edu", "charlotte@mergington.edu"]
+    },
+    "Chess Club": {
+        "description": "Learn strategies and compete in chess tournaments",
         "schedule": "Fridays, 3:30 PM - 5:00 PM",
         "max_participants": 12,
         "participants": ["michael@mergington.edu", "daniel@mergington.edu"]
